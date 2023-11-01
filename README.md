@@ -13,5 +13,9 @@ It means that for short data input pegasus is the best model for CNN daily news 
 
 Files Structure
 
+Bart
+GP2
+PEGASUS
+
 
 
